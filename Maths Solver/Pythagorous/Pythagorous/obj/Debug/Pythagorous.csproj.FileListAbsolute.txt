@@ -1,0 +1,6 @@
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\Maths Solver\Pythagorous\Pythagorous\bin\Debug\Pythagorous.exe.config
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\Maths Solver\Pythagorous\Pythagorous\bin\Debug\Pythagorous.exe
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\Maths Solver\Pythagorous\Pythagorous\bin\Debug\Pythagorous.pdb
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\Maths Solver\Pythagorous\Pythagorous\obj\Debug\Pythagorous.csprojAssemblyReference.cache
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\Maths Solver\Pythagorous\Pythagorous\obj\Debug\Pythagorous.exe
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\Maths Solver\Pythagorous\Pythagorous\obj\Debug\Pythagorous.pdb
