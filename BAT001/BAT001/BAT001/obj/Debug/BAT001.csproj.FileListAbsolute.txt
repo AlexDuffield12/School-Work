@@ -1,0 +1,6 @@
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\BAT001\BAT001\BAT001\bin\Debug\BAT001.exe.config
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\BAT001\BAT001\BAT001\bin\Debug\BAT001.exe
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\BAT001\BAT001\BAT001\bin\Debug\BAT001.pdb
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\BAT001\BAT001\BAT001\obj\Debug\BAT001.csprojAssemblyReference.cache
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\BAT001\BAT001\BAT001\obj\Debug\BAT001.exe
+C:\Users\alexp\Desktop\Github\Individual work\School-Work\BAT001\BAT001\BAT001\obj\Debug\BAT001.pdb
